@@ -1,0 +1,45 @@
+<application>
+  <component name="libraryTable">
+    <library name="scala-sdk-2.12.6" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file://C:/app/scala126/lib/scala-compiler.jar" />
+          <root url="file://C:/app/scala126/lib/scala-library.jar" />
+          <root url="file://C:/app/scala126/lib/scala-reflect.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://C:/app/scala126/lib/scala-library.jar!/" />
+        <root url="jar://C:/app/scala126/lib/scala-parser-combinators_2.12-1.0.7.jar!/" />
+        <root url="jar://C:/app/scala126/lib/scala-reflect.jar!/" />
+        <root url="jar://C:/app/scala126/lib/scala-swing_2.12-2.0.0.jar!/" />
+        <root url="jar://C:/app/scala126/lib/scala-xml_2.12-1.0.6.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://C:/app/scala126/api/jars/scala-library-2.12.6-javadoc.jar!/" />
+        <root url="jar://C:/app/scala126/api/jars/scala-parser-combinators_2.12-1.0.7-javadoc.jar!/" />
+        <root url="jar://C:/app/scala126/api/jars/scala-reflect-2.12.6-javadoc.jar!/" />
+        <root url="jar://C:/app/scala126/api/jars/scala-swing_2.12-2.0.0-javadoc.jar!/" />
+        <root url="jar://C:/app/scala126/api/jars/scala-xml_2.12-1.0.6-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+    <library name="scala-sdk-2.13.1" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file://C:/app/scala/lib/scala-compiler.jar" />
+          <root url="file://C:/app/scala/lib/scala-library.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://C:/app/scala/lib/scala-library.jar!/" />
+        <root url="jar://C:/app/scala/lib/scala-reflect.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://C:/app/scala/api/jars/scala-library-2.13.1-javadoc.jar!/" />
+        <root url="jar://C:/app/scala/api/jars/scala-reflect-2.13.1-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+  </component>
+</application>

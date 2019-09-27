@@ -1,0 +1,11 @@
+<templateSet group="user">
+  <template name="/**" value="/**&#10; *&#10; * 功能描述: &#10; *&#10; * @param: $param$&#10; * @return: $return$&#10; * @auther: Allen&#10; * @date: $date$ $time$&#10; */" description="my func" toReformat="false" toShortenFQNames="true">
+    <variable name="param" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
