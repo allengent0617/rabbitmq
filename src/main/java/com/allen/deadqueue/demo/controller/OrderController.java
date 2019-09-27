@@ -19,7 +19,7 @@ public class OrderController {
     }
 
     @PostMapping("/order")
-    public  void cancelOrder(@Valid @RequestBody OrdersMessage body)
+    public  void createOrder(@Valid @RequestBody OrdersMessage body)
     {
         sendOrdersRabbitGateway.send(body);
     }
