@@ -5,6 +5,7 @@
       <mapping pattern="read" type="PLAIN_TEXT" />
       <mapping pattern="w" type="PLAIN_TEXT" />
       <mapping pattern="v" type="PLAIN_TEXT" />
+      <mapping pattern="into" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
