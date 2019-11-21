@@ -2,14 +2,15 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*.txt;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="transfer" type="PLAIN_TEXT" />
-      <mapping pattern="promoter" type="PLAIN_TEXT" />
       <mapping pattern="read" type="PLAIN_TEXT" />
+      <mapping pattern="into" type="PLAIN_TEXT" />
       <mapping pattern="recharge" type="PLAIN_TEXT" />
-      <mapping pattern="out" type="PLAIN_TEXT" />
+      <mapping pattern="promoter" type="PLAIN_TEXT" />
       <mapping pattern="w" type="PLAIN_TEXT" />
       <mapping pattern="v" type="PLAIN_TEXT" />
-      <mapping pattern="into" type="PLAIN_TEXT" />
+      <mapping pattern="out" type="PLAIN_TEXT" />
+      <mapping pattern="transfer" type="PLAIN_TEXT" />
+      <mapping pattern="log" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
