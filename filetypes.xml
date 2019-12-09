@@ -6,6 +6,7 @@
       <mapping pattern="into" type="PLAIN_TEXT" />
       <mapping pattern="recharge" type="PLAIN_TEXT" />
       <mapping pattern="promoter" type="PLAIN_TEXT" />
+      <mapping pattern="withdraw_result" type="PLAIN_TEXT" />
       <mapping pattern="w" type="PLAIN_TEXT" />
       <mapping pattern="v" type="PLAIN_TEXT" />
       <mapping pattern="out" type="PLAIN_TEXT" />
