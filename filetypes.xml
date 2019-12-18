@@ -16,6 +16,7 @@
       <mapping pattern="new-readme" type="PLAIN_TEXT" />
       <mapping pattern="qr" type="PLAIN_TEXT" />
       <mapping pattern="flash" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
