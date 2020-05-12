@@ -1,9 +1,0 @@
-<application>
-  <component name="UISettings">
-    <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="5024" />
-    <option name="FONT_SCALE" value="1.0" />
-    <option name="FONT_SIZE" value="10" />
-    <option name="HIDE_TOOL_STRIPES" value="false" />
-    <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
-  </component>
-</application>
